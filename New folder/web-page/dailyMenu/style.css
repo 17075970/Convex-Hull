@@ -1,0 +1,43 @@
+@keyframes in{
+	from{
+    background-color: white;
+    color:black;
+	}
+	to{
+    background-color: #FACA7E;
+    color:white;
+	}
+}
+@keyframes out{
+	from{
+    background-color: #FACA7E;
+    color:white;
+	}
+	to{
+    background-color: white;
+    color: black;
+	}
+}
+
+.btn{
+  margin-bottom: 10px;
+	width: 93%;
+	min-height: 120px;
+  border: 2px solid silver;
+	cursor: pointer;
+}
+
+.btn img{
+	margin: 10px;
+	float: left;
+	border-radius: 20px;
+}
+
+button{
+	background-color: white;
+	border: 2px solid #FACA7E;
+	float: right;
+	height: 60px;
+	width: 60px;
+	border-radius: 50%;
+}

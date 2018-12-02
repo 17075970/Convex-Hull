@@ -1,0 +1,21 @@
+.container{
+  background-color: white;
+  border: 2px solid silver;
+  border-radius: 5px;
+  position: absolute;
+  width: 100%;
+}
+
+.avatar{
+  float: left;
+  margin: 10px;
+}
+
+.options{
+  float: left;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}

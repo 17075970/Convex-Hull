@@ -1,0 +1,32 @@
+.container{
+  background-color: white;
+  border: 2px solid silver;
+  border-radius: 5px;
+  position: absolute;
+  width: 100%;
+}
+
+.avatar{
+  float: left;
+  margin: 10px;
+}
+
+.user-info{
+  float: left;
+}
+
+.user-info input{
+  margin-right: 5px;
+}
+
+#name-space{
+  min-height: 50px
+}
+
+#name-space input{
+  margin-top: 15px;
+}
+
+p{
+  min-height: 23px;
+}
